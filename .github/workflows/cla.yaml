@@ -17,3 +17,4 @@ jobs:
     uses: Netcracker/qubership-workflow-hub/.github/workflows/cla.yaml@main
     secrets:
       personal_access_token: ${{ secrets.CLA_ACCESS_TOKEN }}
+
